@@ -1,0 +1,6 @@
+{
+  "name": "Tabu Azərbaycan - Söz və Əyləncə Oyunu",
+  "description": "Azərbaycan dilində ən maraqlı və əyləncəli Tabu söz oyunu. Dostlarınızla komandalar yaradın, xal toplayın və qadağan olunmuş sözləri demədən qalib gəlin!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
